@@ -1,9 +1,9 @@
 {
   "restaurant": [
     {
-      "precioPlatillo": "200",
-      "nombrePlatillo": "Cheesecake",
-      "categoria": "postres",
+      "precioPlatillo": "210",
+      "nombrePlatillo": "Cheescake",
+      "categoria": "postre",
       "id": 1
     },
     {
@@ -17,6 +17,24 @@
       "precioPlatillo": "150",
       "categoria": "ensalada",
       "id": 3
+    },
+    {
+      "nombrePlatillo": "Agua de Frutas",
+      "precioPlatillo": "50",
+      "categoria": "bebida",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Pastel de Chocolate",
+      "precioPlatillo": "300",
+      "categoria": "postre",
+      "id": 5
+    },
+    {
+      "precioPlatillo": "120",
+      "nombrePlatillo": "Ensalada de Pollo y verduras",
+      "categoria": "ensalada",
+      "id": 6
     }
   ]
 }
